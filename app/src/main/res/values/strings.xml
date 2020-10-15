@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Kotlin challenge app</string>
+    <string name="q_header">Q.</string>
+    <string name="submit_button_cta">Submit</string>
+    <string name="generic_error_msg">Something went wrong. Please try again later</string>
+    <string name="correct_answer">Correct Answer</string>
+    <string name="congrats">Congrats!!</string>
+    <string name="wrong_answer">Wrong Answer</string>
+
+</resources>
